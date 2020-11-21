@@ -1,0 +1,115 @@
+h1.cabecera{
+    position:fixed;
+    background: #66cc0e;
+    color:white;
+    width:100%;
+    text-align: center;
+    padding-bottom: 0.5em;
+    
+        }
+
+
+
+h1.titulo1 {
+    text-decoration: underline;
+     padding-top: 2.5em;
+    
+                
+}
+
+h2.subtitulo1 {
+   
+    font-size: 35px;
+}
+
+hr.lineahorizontal1, hr.lineahorizontal2, hr.lineahorizontal3, hr.lineahorizontal4{
+    background-color: #66cc0e;
+   
+}
+
+div.contenido img.mifoto{
+    float: left;
+    border-radius: 50%;
+    padding-top: -40px;
+    
+}
+
+div.contenido p.dato1 {
+    float:left;
+    text-indent: 50px;
+    padding-top: -100px;
+    
+}
+
+div.contenido p.dato2 {
+    float:left;
+    text-indent: 50px;
+}
+
+
+div.contenido ul.lista1 li {
+     text-indent: 150px;
+    
+}
+
+div.contenido ul.lista1{
+     text-indent: 50px;
+
+}
+
+div.contenido2 p.dato1 {
+    text-align: justify;
+}
+
+
+div.contenido3 p.dato2{
+    text-align: justify;
+}
+
+div.contenido4 p.dato1{
+    text-align: justify;
+    word-spacing: 60pt;  
+    border-right: 10px solid #66cc0e;
+    border-bottom: 1px solid #66cc0e;
+    border-left: 10px solid #66cc0e; 
+    width: 1870px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+border-top: 1px solid #66cc0e;
+    border-right: 1200px solid #66cc0e;
+    border-bottom: 1px solid #66cc0e;
+    border-left: 200px solid #66cc0e; 
+width: 1000px;
+    
+*/
+
+
+
+
+
+
+
+
+
+
+
+/*border-bottom: 2px solid #88b2ff;*/
